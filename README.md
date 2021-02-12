@@ -3,5 +3,8 @@
   <br>
   <h2>Features</h2>
   <li>List List of Pokémon</li>
-  <h4>ScreenShots</h4>
+  <li>Pokemon Details Screen (Details, Status, Evolutions)</li>
+  <br>
+  <h2>ScreenShots</h2>
+  
 </html>
