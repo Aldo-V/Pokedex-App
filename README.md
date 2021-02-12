@@ -1,6 +1,6 @@
 <html>
   <h1><center>P@kedex App</center></h1>
-  <br><br>
+  <br>
   <h2>Features</h2>
   <li>List List of Pokémon</li>
   <h4>ScreenShots</h4>
