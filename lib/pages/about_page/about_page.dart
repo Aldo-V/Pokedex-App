@@ -73,7 +73,7 @@ class _AboutPageState extends State<AboutPage>
                   ),
               tabs: <Widget>[
                 Tab(
-                  text: "About",
+                  text: "Details",
                 ),
                 Tab(
                   text: "Evolution",
