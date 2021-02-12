@@ -9,5 +9,5 @@
   <img src="assets/ScreenShots/home_page.png" style="margin-left: auto; margin-right: auto;>
   <img src="assets/ScreenShots/Details.png" style="margin-left: auto; margin-right: auto;>
   <img src="assets/ScreenShots/Evolution.png" style="margin-left: auto; margin-right: auto;>
-  <img src="assets/ScreenShots/Status.png" style="margin-left: auto; margin-right: auto;>
+  <img src="assets/ScreenShots/Status.png">
 </html>
