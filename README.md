@@ -7,8 +7,8 @@
   <br>
   <h2>ScreenShots</h2>
   <img src="assets/ScreenShots/home_page.png">
-  <img src="PokedexApp/assets/ScreenShots/Details.png">
-  <img src="PokedexApp/assets/ScreenShots/Evolution.png">
-  <img src="PokedexApp/assets/ScreenShots/status.png">
+  <img src="assets/ScreenShots/Details.png">
+  <img src="assets/ScreenShots/Evolution.png">
+  <img src="assets/ScreenShots/status.png">
   
 </html>
