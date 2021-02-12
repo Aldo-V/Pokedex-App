@@ -6,10 +6,8 @@
   <li>Pokemon Details Screen (Details, Status, Evolutions)</li>
   <br>
   <h2>ScreenShots</h2>
-  <center>
-  <img src="assets/ScreenShots/home_page.png">
-  <img src="assets/ScreenShots/Details.png">
-  <img src="assets/ScreenShots/Evolution.png">
-  <img src="assets/ScreenShots/Status.png">
-  </center>
+  <img src="assets/ScreenShots/home_page.png" style="margin-left: auto; margin-right: auto;>
+  <img src="assets/ScreenShots/Details.png" style="margin-left: auto; margin-right: auto;>
+  <img src="assets/ScreenShots/Evolution.png" style="margin-left: auto; margin-right: auto;>
+  <img src="assets/ScreenShots/Status.png" style="margin-left: auto; margin-right: auto;>
 </html>
