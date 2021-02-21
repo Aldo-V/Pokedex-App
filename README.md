@@ -1,4 +1,4 @@
-<html>	# PokedexApp
+<html>
   <h1><center>P@kedex App</center></h1>	
   <br>	A new Flutter project.
   <h2>Features</h2>	
